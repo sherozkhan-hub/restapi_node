@@ -1,0 +1,76 @@
+[
+  { "id": 2, "email": "sheroz@gmail.com" },
+  { "id": 5, "age": 8979, "isAuthenticated": true, "isAuthorized": true },
+  { "id": 6, "age": 89, "isAuthenticated": true, "isAuthorized": true },
+  {
+    "id": 8,
+    "name": "ui",
+    "age": 19,
+    "isAuthenticated": true,
+    "isAuthorized": true,
+    "email": "hammadio.com",
+    "university": "punjab"
+  },
+  { "id": 9, "name": "ali", "isAuthenticated": true, "isAuthorized": true },
+  {
+    "id": 9,
+    "name": "mamm",
+    "email": "hammadio.com",
+    "isAuthenticated": true,
+    "isAuthorized": true
+  },
+  {
+    "id": 9,
+    "name": "mamm",
+    "email": "hammadio.com",
+    "isAuthenticated": true,
+    "isAuthorized": true
+  },
+  {
+    "id": 11,
+    "name": "ui",
+    "age": 19,
+    "isAuthenticated": true,
+    "isAuthorized": true,
+    "email": "hammadio.com",
+    "university": "punjab"
+  },
+  {
+    "id": 8,
+    "name": "majid",
+    "age": 29,
+    "email": "hammadio.com",
+    "password": "1234",
+    "address": "gujranwala",
+    "gender": "male",
+    "university": "gujrat",
+    "isAuthenticated": true,
+    "isAuthorized": true
+  },
+  {
+    "id": 13,
+    "name": "majid",
+    "age": 29,
+    "number": 780987,
+    "email": "hammadio.com",
+    "password": "1234",
+    "address": "gujranwala",
+    "gender": "male",
+    "university": "gujrat",
+    "isAuthenticated": true,
+    "isAuthorized": true
+  },
+  {
+    "id": 14,
+    "name": "shehroz",
+    "age": 29,
+    "number": 780987,
+    "email": "hammadio.com",
+    "password": "1234",
+    "address": "gujranwala",
+    "gender": "male",
+    "university": "gujrat",
+    "isAuthenticated": true,
+    "isAuthorized": true
+  }
+]
